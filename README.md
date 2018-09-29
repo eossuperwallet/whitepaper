@@ -1,0 +1,2 @@
+# whitepaper
+EOSsuperwallet whitepaper
